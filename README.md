@@ -18,13 +18,13 @@ By Valentin Ghibaudo
     * [`requirements_physio.txt`](https://raw.githubusercontent.com/ValentinGhibaudo/Formation_2025_physio_cardio_respi/main/requirements_physio.txt)
 4. Open terminal (or a **CMD**)
 5. Run it to install a Python 3.12 environment named env_formation_physio :
-   - Linux uv venv /home/usename/.virtualenvs/env_formation_physio --python 3.12
-   - macOS uv venv /Users/usename/.virtualenvs/env_formation_physio --python 3.12
-   - Windows uv venv C:\Users\usename\.virtualenvs\env_formation_physio --python 3.12
+   - Linux `uv venv /home/usename/.virtualenvs/env_formation_physio --python 3.12`
+   - macOS `uv venv /Users/usename/.virtualenvs/env_formation_physio --python 3.12`
+   - Windows `uv venv C:\Users\usename\.virtualenvs\env_formation_physio --python 3.12`
 6. Run it to activate your environment :
-   - Linux source /home/usename/.virtualenvs/env_formation_physio/bin/activate (you should see (env_formation_physio) in your terminal)
-   - MacOS source  /Users/usename/.virtualenvs/env_formation_physio/bin/activate (you should see (env_formation_physio) in your terminal)
-   - Windows: C:\Users\usename\.virtualenvs\env_formation_physio\Scripts\activate
+   - Linux `source /home/usename/.virtualenvs/env_formation_physio/bin/activate` (you should see (env_formation_physio) in your terminal)
+   - MacOS `source  /Users/usename/.virtualenvs/env_formation_physio/bin/activate` (you should see (env_formation_physio) in your terminal)
+   - Windows: `C:\Users\usename\.virtualenvs\env_formation_physio\Scripts\activate`
 7. Run it to install Python libraries : `uv pip install -r Documents/requirements_physio.txt`
 
 ### Running an example notebook
