@@ -13,8 +13,8 @@ By Valentin Ghibaudo
    `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
 2. Exit the terminal and open it again.
 3. Download with right click and save this file corresponding in "Documents" folder:
-    * [`requirements.txt`](https://raw.githubusercontent.com/ValentinGhibaudo/Formation_2025_physio_cardio_respi/main/requirements_physio.txt)
+    * [`requirements_physio.txt`](https://raw.githubusercontent.com/ValentinGhibaudo/Formation_2025_physio_cardio_respi/main/requirements_physio.txt)
 4. open terminal or **CMD**
 5. `uv venv env_formation_physio --python 3.12`
-6. For Mac/Linux `source env_formation_physio/bin/activate` (you should have `(env_formation)` in your terminal) or for Powershell `env_formation_physio\Scripts\activate`
+6. For Mac/Linux `source env_formation_physio/bin/activate` (you should have `(env_formation_physio)` in your terminal) or for Powershell `env_formation_physio\Scripts\activate`
 7. `uv pip install -r Documents/requirements_physio.txt`
