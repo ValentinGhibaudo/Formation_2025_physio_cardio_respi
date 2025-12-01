@@ -1,6 +1,6 @@
 # Lesson on cardio-respiratory physiology: theory and practice
 
-Developed by Valentin Ghibaudo
+By Valentin Ghibaudo
 
 ## Outline
   * Theory : **cardio_respi_lesson_theory.pdf** 
