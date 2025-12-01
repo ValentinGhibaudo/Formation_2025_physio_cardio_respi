@@ -6,7 +6,7 @@ By Valentin Ghibaudo
 * Read : **./slides/cardio_respi_lesson_theory.pdf**
 
 ## Practice
-### Download ZIP file**
+### Download ZIP file
   * Downlaod ZIP file (green CODE button -> Download ZIP), store it where you want and unzip it.
 
 ### Installing Python with **uv** in 7 steps
@@ -22,7 +22,7 @@ By Valentin Ghibaudo
 6. Run it to activate your environment : For Mac/Linux `source env_formation_physio/bin/activate` (you should have `(env_formation_physio)` in your terminal) or for Powershell (windows) run  `env_formation_physio\Scripts\activate`
 8. Run it to install Python libraries : `uv pip install -r Documents/requirements_physio.txt`
 
-## Running an example notebook
+### Running an example notebook
   * Open a terminal and activate the environment (cf .6)
   * Run it to start a JupyterLab session in your web browser : jupyter-lab
   * With the explorer of jupyterlab, go to to the "notebooks" folder of the unzipped downloaded folder
