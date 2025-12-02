@@ -6,6 +6,9 @@ By Valentin Ghibaudo
 * Read : **./slides/cardio_respi_lesson_theory.pdf**
 
 ## Practice
+
+* Read : **./slides/cardio_respi_lesson_practice.pdf**
+
 ### Download ZIP file
   * Download ZIP file (green CODE button -> Download ZIP), store it where you want and unzip it.
 
